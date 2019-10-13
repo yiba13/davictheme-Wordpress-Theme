@@ -1,5 +1,5 @@
 # davictheme-Wordpress-Theme
-test
+
 这是一款基于Bootstrap框架完成的Wordpress博客主题。<br>
 <br>
 响应式布局，优化了移动端访问<br>
